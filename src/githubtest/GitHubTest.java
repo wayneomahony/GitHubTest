@@ -16,6 +16,7 @@ public class GitHubTest {
      */
     public static void main(String[] args) {
         System.out.println("Hello, Roft here!");
+        System.out.println("Wayne here..");
     }
     
 }
